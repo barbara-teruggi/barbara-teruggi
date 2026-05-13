@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **barbara-teruggi/barbara-teruggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
